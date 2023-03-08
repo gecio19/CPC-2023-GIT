@@ -1,3 +1,4 @@
 # CPC-2023-GIT
 
-KREDEK
+KREDEK - super koło naukowe
+
